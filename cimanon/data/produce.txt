@@ -1,0 +1,148 @@
+# Справочник синтетических наименований: овощи, фрукты, ягоды, орехи, пряные травы.
+# Формат: русское название | английское название | прилагательное (только если правило даёт неверную форму).
+# Прилагательное выводится из названия автоматически (см. morphology.produce_adjective)
+# и заменяет имя собственное энергообъекта: «ПС Алькеево» -> «ПС Малиновое».
+яблоко | apple
+груша | pear
+слива | plum | сливовый
+вишня | cherry
+черешня
+абрикос | apricot
+персик | peach
+нектарин | nectarine
+апельсин | orange
+мандарин | mandarin
+лимон | lemon | лимонный
+лайм | lime
+грейпфрут | grapefruit
+помело | pomelo
+банан | banana
+ананас | pineapple
+манго | mango
+киви | kiwi
+хурма | persimmon
+гранат | pomegranate
+инжир | fig | инжирный
+финик
+айва | quince | айвовый
+авокадо | avocado
+кокос | coconut
+миндаль | almond
+фундук | hazelnut | фундучный
+фисташка | pistachio | фисташковый
+каштан | chestnut
+арахис | peanut
+малина | raspberry
+клубника | strawberry
+земляника
+черника | blueberry
+голубика
+брусника | lingonberry
+клюква | cranberry
+ежевика | blackberry
+смородина | currant
+крыжовник | gooseberry | крыжовенный
+облепиха | buckthorn
+рябина | rowan
+калина | viburnum
+боярышник | hawthorn
+шиповник | rosehip
+барбарис | barberry
+арбуз | watermelon | арбузный
+дыня | melon | дынный
+виноград | grape | виноградный
+маракуйя | passionfruit
+личи | lychee
+кумкват | kumquat
+физалис | physalis
+морковь | carrot
+свёкла | beet | свекольный
+капуста | cabbage | капустный
+картофель | potato
+лук | onion
+чеснок | garlic
+огурец | cucumber
+томат | tomato | томатный
+перец | pepper
+баклажан | eggplant
+кабачок | zucchini | кабачковый
+тыква | pumpkin
+редис | radish
+брюква | rutabaga
+сельдерей | celery
+петрушка | parsley | петрушечный
+укроп | dill | укропный
+шпинат | spinach | шпинатный
+щавель | sorrel | щавелевый
+руккола | arugula | руккольный
+горох | pea
+фасоль | bean | фасолевый
+чечевица | lentil | чечевичный
+кукуруза | corn | кукурузный
+спаржа | asparagus
+артишок | artichoke | артишоковый
+топинамбур
+пастернак | parsnip
+кольраби | kohlrabi
+брокколи | broccoli
+имбирь | ginger
+базилик | basil
+мята | mint | мятный
+кориандр | coriander
+розмарин | rosemary
+эстрагон | tarragon
+шалфей | sage | шалфейный
+портулак | purslane
+оливка | olive | оливковый
+маслина
+можжевельник | juniper | можжевеловый
+курага
+изюм | raisin | изюмный
+горчица | mustard | горчичный
+тмин | caraway | тминный
+ваниль | vanilla
+гуава | guava | гуавовый
+жимолость | honeysuckle | жимолостный
+черёмуха | bird cherry
+алыча | | алычовый
+шелковица | mulberry | шелковичный
+морошка | cloudberry | морошковый
+кизил | dogwood
+бузина | elderberry
+ирга | serviceberry
+терн | blackthorn
+мушмула | medlar
+клементин | clementine
+бергамот | bergamot
+карамбола | carambola
+рамбутан | rambutan
+папайя | papaya
+помидор | | помидорный
+патиссон
+батат | sweet potato
+салат | lettuce | салатный
+лавр | laurel
+кардамон | cardamom
+гвоздика | clove
+корица | cinnamon | коричный
+шафран | saffron
+чабрец | thyme | чабрецовый
+мелисса | melissa
+лаванда | lavender
+тархун
+фенхель | fennel | фенхелевый
+анис | anise
+мускат | nutmeg | мускатный
+нут | chickpea
+соя | soy
+ячмень | barley
+пшеница | wheat | пшеничный
+гречиха | buckwheat | гречишный
+рис | rice
+мак | poppy
+кунжут | sesame | кунжутный
+орех | walnut
+пекан | pecan
+лук-порей | leek | порейный
+репа | turnip
+редька | | редечный
